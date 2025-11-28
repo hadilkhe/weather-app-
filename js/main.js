@@ -15,6 +15,7 @@ navigator.geolocation.getCurrentPosition(async function (position) {
         let data = await respond.json();
 
         console.log(data);
+       
         
         // display current weather info
         let cityMain = document.getElementById("city-name");
