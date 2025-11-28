@@ -63,4 +63,5 @@ searchinput.addEventListener('keydown', function(event) {
         search(searchinput.value);
         console.log("worked")
       }
-  });
+  })
+;
