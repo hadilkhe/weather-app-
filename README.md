@@ -1,6 +1,7 @@
 # Weather App
 
 Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
+Enable location services for optimal results !
 
 ## Features
 
@@ -19,4 +20,5 @@ Welcome to the Weather App repository! This project is a web application that pr
 
 ### Usage
 
-To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
+
+To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more. 
